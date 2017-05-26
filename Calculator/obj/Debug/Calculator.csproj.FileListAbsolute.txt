@@ -1,0 +1,7 @@
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.dll
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\nunit.framework.dll
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\nunit.framework.xml
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.dll
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
